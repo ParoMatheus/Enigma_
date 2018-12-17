@@ -1,5 +1,5 @@
 letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-one ="EHRVXGAOBQUSIMZFLYNWKTPDJC"
+one ="YRUHQSLDPXNGOKMIEBFZCWVJAT"
 
 def setup():
     print("wiring = [",end="")
